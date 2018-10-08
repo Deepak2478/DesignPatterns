@@ -1,0 +1,11 @@
+Its like a factory, but everything is encapsulated.
+Method orders the object and factories build the object.
+Final objects contains objects that use Strategy Pattern
+(Composition: Object class fields are objects)
+
+===============================================
+
+Allows to create families of related objects without specifing a concrete class.
+Objects can be added or changed dynamically during the runtime.
+
+===============================================

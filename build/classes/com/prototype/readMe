@@ -1,0 +1,7 @@
+-creates new objects by  cloning other objects
+-allows for adding any subclass instance of a known
+	superclass at runtime
+- when there are numerous potential classes that you want 
+	to only use at runtime
+-reduces the need or creating subclasses	
+  
